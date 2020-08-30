@@ -25,23 +25,23 @@ def literal_aoh
   literal_aoh = [
     don_g = [
       :name => DON_G[:name],
-      occupation: DON_G[1]
+      :occupation => DON_G[:occupation]
     ],
     joelle_vd = [
-      name: DON_G[0],
-      occupation: DON_G[1]
+      :name => JOELLE_VD[:name],
+      :occupation => DON_G[1]
     ],
     pat_m = [
-      name: DON_G[0],
-      occupation: DON_G[1]
+      :name => PAT_M[:name],
+      :occupation => DON_G[1]
     ],
     kate_g = [
-      name: DON_G[0],
-      occupation: DON_G[1]
+      :name => KATE_G[:name],
+      :occupation => DON_G[1]
     ],
     bruce_g = [
-      name: DON_G[0],
-      occupation: DON_G[1]
+      :name => BRUCE_G[:name],
+      :occupation => DON_G[1]
     ]
     ]
   
