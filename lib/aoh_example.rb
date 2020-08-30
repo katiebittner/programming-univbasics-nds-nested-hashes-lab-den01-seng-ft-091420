@@ -41,7 +41,8 @@ def literal_aoh
       :name => BRUCE_G[:name],
       :occupation => BRUCE_G[:occupation],
     }
-  ]  
+  ] 
+  
 end
 
 def aoh_lookup(aoh, row, key)
