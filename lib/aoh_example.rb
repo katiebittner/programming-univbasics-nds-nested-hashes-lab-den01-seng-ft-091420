@@ -23,26 +23,26 @@ def literal_aoh
   # held in the constants
   
   literal_aoh =
-    don_g = [
+    don_g = 
       :name => DON_G[:name],
       :occupation => DON_G[:occupation]
-    ],
-    joelle_vd = [
+    ,
+    joelle_vd = 
       :name => JOELLE_VD[:name],
       :occupation => JOELLE_VD[:occupation],
-    ],
-    pat_m = [
+    ,
+    pat_m = 
       :name => PAT_M[:name],
       :occupation => PAT_M[:occupation],
-    ],
-    kate_g = [
+    ,
+    kate_g = 
       :name => KATE_G[:name],
       :occupation => KATE_G[:occupation],
-    ],
-    bruce_g = [
+    ,
+    bruce_g = 
       :name => BRUCE_G[:name],
       :occupation => BRUCE_G[:occupation],
-    ]
+    
   
 end
 
