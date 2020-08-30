@@ -32,16 +32,16 @@ def literal_aoh
       occupation: DON_G[1]
     ],
     pat_m = [
-      name: DON_G[name],
-      occupation: DON_G[occupation]
+      name: DON_G[0],
+      occupation: DON_G[1]
     ],
     kate_g = [
-      name: DON_G[name],
-      occupation: DON_G[occupation]
+      name: DON_G[0],
+      occupation: DON_G[1]
     ],
     bruce_g = [
-      name: DON_G[name],
-      occupation: DON_G[occupation]
+      name: DON_G[0],
+      occupation: DON_G[1]
     ]
     ]
   
