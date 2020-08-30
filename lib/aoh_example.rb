@@ -23,26 +23,26 @@ def literal_aoh
   # held in the constants
   
   literal_aoh = [
-    don_g = {
+    don_g = [
       name: DON_G:name,
       occupation: DON_G[occupation]
-    },
-    joelle_vd = {
+    ],
+    joelle_vd = [
       name: DON_G[name],
       occupation: DON_G[occupation]
-    },
-    pat_m = {
+    ],
+    pat_m = [
       name: DON_G[name],
       occupation: DON_G[occupation]
-    },
-    kate_g = {
+    ],
+    kate_g = [
       name: DON_G[name],
       occupation: DON_G[occupation]
-    },
-    bruce_g = {
+    ],
+    bruce_g = [
       name: DON_G[name],
       occupation: DON_G[occupation]
-    }
+    ]
     ]
   
 end
