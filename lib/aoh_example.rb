@@ -24,8 +24,8 @@ def literal_aoh
   
   literal_aoh = [
     don_g = [
-      name: DON_G[:name],
-      occupation: DON_G[occupation]
+      name: DON_G[0],
+      occupation: DON_G[1]
     ],
     joelle_vd = [
       name: DON_G[name],
