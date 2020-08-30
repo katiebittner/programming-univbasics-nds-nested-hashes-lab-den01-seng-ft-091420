@@ -29,19 +29,19 @@ def literal_aoh
     ],
     joelle_vd = [
       :name => JOELLE_VD[:name],
-      :occupation => DON_G[1]
+      :occupation => OELLE_VD[:occupation],
     ],
     pat_m = [
       :name => PAT_M[:name],
-      :occupation => DON_G[1]
+      :occupation => PAT_M[:occupation],
     ],
     kate_g = [
       :name => KATE_G[:name],
-      :occupation => DON_G[1]
+      :occupation => DKATE_G[:occupation],
     ],
     bruce_g = [
       :name => BRUCE_G[:name],
-      :occupation => DON_G[1]
+      :occupation => BRUCE_G[:occupation],
     ]
     ]
   
