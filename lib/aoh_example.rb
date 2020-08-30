@@ -28,8 +28,8 @@ def literal_aoh
       occupation: DON_G[1]
     ],
     joelle_vd = [
-      name: DON_G[name],
-      occupation: DON_G[occupation]
+      name: DON_G[0],
+      occupation: DON_G[1]
     ],
     pat_m = [
       name: DON_G[name],
