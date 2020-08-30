@@ -29,7 +29,7 @@ def literal_aoh
     ],
     joelle_vd = [
       :name => JOELLE_VD[:name],
-      :occupation => OELLE_VD[:occupation],
+      :occupation => JOELLE_VD[:occupation],
     ],
     pat_m = [
       :name => PAT_M[:name],
