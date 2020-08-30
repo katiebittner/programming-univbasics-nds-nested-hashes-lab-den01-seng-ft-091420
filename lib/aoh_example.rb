@@ -37,7 +37,7 @@ def literal_aoh
     ],
     kate_g = [
       :name => KATE_G[:name],
-      :occupation => DKATE_G[:occupation],
+      :occupation => KATE_G[:occupation],
     ],
     bruce_g = [
       :name => BRUCE_G[:name],
