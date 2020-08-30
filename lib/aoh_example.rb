@@ -26,6 +26,22 @@ def literal_aoh
     don_g = {
       name: DON_G[name],
       occupation: DON_G[occupation]
+    },
+    joelle_vd = {
+      name: DON_G[name],
+      occupation: DON_G[occupation]
+    },
+    pat_m = {
+      name: DON_G[name],
+      occupation: DON_G[occupation]
+    },
+    kate_g = {
+      name: DON_G[name],
+      occupation: DON_G[occupation]
+    },
+    bruce_g = {
+      name: DON_G[name],
+      occupation: DON_G[occupation]
     }
     ]
   
